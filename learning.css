@@ -1,0 +1,168 @@
+
+
+.head1{
+    position: relative;
+    left: 500px;
+    color: brown;
+    font-family: sans-serif;
+    font-size: 3rem;
+}
+#para{
+    font-size: xx-large;
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 136px;
+    top: 0px;
+}
+#btn{
+    border: solid 2px;
+    border-radius: 8px;
+    background-color: chocolate;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 20px;
+    width: 10%;
+    cursor: pointer;
+}
+
+#paraShowing:hover{
+    background-color: goldenrod;
+}
+.noch{
+    color: rgb(255, 231, 16);
+}
+.btn1{
+    border: solid 2px;
+    border-radius: 8px;
+    background-color: rgb(16, 189, 82);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 20px;
+    width: 15%;
+    cursor: pointer;
+    color: aliceblue;
+}
+.btn1:hover{
+    background-color: darkgreen;
+}
+.ron{
+    width: 201px;
+    position: relative;
+    left: 522px;
+}
+.showHideRon{
+    border: solid 2px;
+    border-radius: 8px;
+    background-color: rgb(16, 140, 189);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 20px;
+    width: 22%;
+    cursor: pointer;
+    color: aliceblue; 
+}
+.colorChange{
+    border: solid 2px;
+    border-radius: 8px;
+    background-color: rgb(238, 57, 12);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 20px;
+    width: 30%;
+    cursor: pointer;
+    color: aliceblue;  
+}
+.colorChange:hover{
+    background-color: brown;
+}
+.car1{
+    width: 226px;
+    height: 168px;
+    position: relative;
+    left: 515px;
+}
+.btn2{
+    border: solid 2px;
+    border-radius: 8px;
+    background-color: rgb(19, 161, 74);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 20px;
+    width: 30%;
+    cursor: pointer;
+    color: aliceblue;  
+}
+.btn2:hover{
+    background-color: darkgreen;
+}
+
+.head3{
+    position: relative;
+    left: -4px;
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    color: black;
+    background: aqua;
+    text-align: center;
+}
+.a{
+    border: solid 2px;
+    border-radius: 8px;
+    background-color: rgb(19, 161, 74);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 20px;
+    width: 6%;
+    height: 42px;
+    cursor: pointer;
+    color: aliceblue;
+    padding: 4px 6px;
+}
+.b{
+    border: solid 2px;
+    border-radius: 8px;
+    background-color: rgb(111, 11, 136);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 20px;
+    width: 6%;
+    height: 42px;
+    cursor: pointer;
+    color: aliceblue;
+    padding: 4px 6px;
+}
+.c{
+    border: solid 2px;
+    border-radius: 8px;
+    background-color: rgb(223, 209, 15);
+    box-shadow: 0 8px 16px 0 rgba(226, 223, 223, 0.2), 0 6px 20px 0 rgba(230, 223, 223, 0.19);
+    font-size: 20px;
+    width: 6%;
+    height: 42px;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    padding: 4px 6px;
+}
+.d{
+    border: solid 2px;
+    border-radius: 8px;
+    background-color: rgb(182, 18, 18);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 20px;
+    width: 6%;
+    height: 42px;
+    cursor: pointer;
+    color: aliceblue;
+    padding: 4px 6px;
+}
+.e{
+    border: solid 2px;
+    border-radius: 8px;
+    background-color: rgb(39, 42, 236);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 20px;
+    width: 6%;
+    height: 42px;
+    cursor: pointer;
+    color: aliceblue;
+    padding: 4px 6px;
+}
+.div{
+    position: relative;
+    border: solid 4px blue;
+}
